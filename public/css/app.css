@@ -1,0 +1,8 @@
+@font-face {
+	font-family: ChinaCyr;
+	src: url(../fonts/ChinaCyr.ttf)
+}
+
+ul {
+    list-style-type: none;
+}
